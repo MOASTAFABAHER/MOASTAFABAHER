@@ -1,59 +1,85 @@
-# 👨‍💻 Mostafa Baher | Flutter Developer & AI Developer
-
-Welcome to my GitHub portfolio! I'm **Moustfa Baher**, a passionate **Flutter developer** and **Artificial Intelligence major** at Arab Open University. I build sleek, high-performance mobile apps and integrate them with powerful AI features to solve real-world problems.
+<h1 align="center">👋 Hi, I'm Moustfa Baher</h1>
+<p align="center">
+  <b>Flutter Developer | AI Enthusiast | Computer Vision Innovator</b><br>
+  Passionate about building beautiful mobile apps and smart AI systems.
+</p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-- 🎓 Computer Science student (AI Major), Arab Open University  
+- 🎓 AI Major at Arab Open University  
 - 👨‍💻 Flutter Developer at **Eye Debugger**  
-- 📱 Passionate about creating intuitive, scalable, and beautiful mobile applications  
-- 🧠 AI enthusiast focused on computer vision and AR-powered solutions  
-- 🎯 Currently building **TactiTrak**, an AI-powered football stats analyzer
+- 🧱 Skilled in Flutter, Firebase, Python, OpenCV, and YOLO  
+- ⚽ Building **TactiTrak** – AI-powered football match analyzer  
+- 📍 Based in Egypt | 🌍 Collaborating globally
 
 ---
 
-## 🛠 Tech Stack
+## 🔧 Tech Stack
 
-**Mobile Development**  
-`Flutter` `Dart` `Firebase` `Bloc` `Provider` `GetX`
-
-**AI & Backend**  
-`Python` `OpenCV` `YOLO` `KMeans` `SigLIP` `NumPy` `Pandas`  
-`FastAPI` `Flask`
-
-**Other Tools**  
-`Git & GitHub` `Figma` `REST APIs` `Postman`
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Yolo-00FFFF?style=for-the-badge&logo=yolov5&logoColor=black"/>
+</p>
 
 ---
 
-## 📱 Featured Projects
+## 🔥 GitHub Stats
 
-### 🧠 TactiTrak (Graduation Project)
-An **AI-powered football video analyzer** that detects players, tracks ball possession, and generates real-time tactical stats using **YOLO**, **KMeans**, and **Supervision**.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moustfabaher&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moustfabaher&theme=tokyonight" height="150" />
+</p>
 
-### 📚 MA Academy
-An educational platform offering digital content including courses, lectures, and quizzes. Developed responsive UIs and integrated Firebase for authentication and content management.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moustfabaher&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
+## 💼 Featured Projects
+
+### ⚽ TactiTrak – AI Football Match Analyzer
+> An AI system that detects players, ball possession, and generates live tactical stats from match videos using YOLO and Supervision.
+
+<img src="https://your-link-to-tactitrak-demo.gif" width="100%"/>
+
+---
+
+### 📚 MA Academy – Educational Platform
+> A mobile app for online courses, videos, and quizzes with real-time authentication using Firebase.
+
+<img src="https://your-link-to-maacademy-screenshot.png" width="100%"/>
+
+---
 
 ### 💬 Chat App
-A full-featured chat application allowing users to send and receive messages in real time, with secure Firebase authentication.
+> Real-time messaging app with Firebase authentication and clean UI.
 
-### 📖 Quran App
-An Islamic app with the **Holy Quran**, Hadiths, Qibla compass, and prayer countdown. Built with a clean and minimal UI using Flutter.
-
-### 🤖 AI Bot
-An OCR and AI-integrated app that extracts text from images, converts speech to text, and interacts with AI using **ML Kit** and custom NLP models.
+<img src="https://your-link-to-chatapp-gif.gif" width="100%"/>
 
 ---
 
-## 📫 Let's Connect
+### 🤖 AI Bot App
+> OCR & voice-enabled assistant using ML Kit, extracting text from images and communicating with AI.
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/moustfa-baher)
-- 📧 moustfabaher.dev@gmail.com
-- 💼 [My Portfolio Website](#) <!-- You can insert a real link here -->
-- 🐦 [Twitter/X](https://twitter.com/moustfabaher)
+<img src="https://your-link-to-aibot-screenshot.png" width="100%"/>
 
 ---
 
-⭐️ Thank you for visiting my GitHub portfolio! Feel free to check out my repositories and drop a ⭐ on any project you like.
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/moustfa-baher"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:moustfabaher.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/moustfabaher"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">⭐️ Thanks for visiting my portfolio!</p>
